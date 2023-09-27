@@ -42,5 +42,5 @@ Our analysis employs a range of methods and tools, including:
 - Statistical analysis and hypothesis testing.
 - Data visualization libraries (e.g., matplotlib, seaborn, heatmap).
 - Python programming language and Jupyter notebooks.
-- machine
+- machine learning algorithms (e.g KNN, DTA)
 
