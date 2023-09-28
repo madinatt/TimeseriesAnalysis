@@ -1,7 +1,5 @@
 # Stock Exchange Time Series Analysis
 
-## Overview
-
 Welcome to the Stock Exchange Time Series Analysis project repository. This project explores the analysis of time series data related to stock market prices and trends. Time series analysis plays a crucial role in financial forecasting, investment decisions, and understanding market behavior.
 
 ## Table of Contents
