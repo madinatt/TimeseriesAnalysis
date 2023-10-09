@@ -30,7 +30,7 @@ Our primary objectives in this time series analysis include:
 
 Our analysis employs a range of methods and tools, including:
 
-- Time series decomposition and visualization.
+- Time series decomposition and visualization
 - Time series forecasting models (e.g., ARIMA, LSTM).
 - Statistical analysis and hypothesis testing.
 - Data visualization libraries (e.g., matplotlib, seaborn, heatmap).
