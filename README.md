@@ -5,8 +5,8 @@ Welcome to the Stock Exchange Time Series Analysis project repository. This proj
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Analysis Objectives](#analysis-objectives)
+- [Dataset](#dataset).
+- [Analysis Objectives](#analysis-objectives).
 - [Methods and Tools](#methods-and-tools).
 
 ## Introduction
