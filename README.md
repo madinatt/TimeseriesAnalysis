@@ -24,7 +24,7 @@ Our primary objectives in this time series analysis include:
 - Identifying trends and seasonality in stock prices.
 - Predicting future stock prices using time series forecasting techniques.
 - Analyzing the correlation between stock prices and external factors like economic indicators or news sentiment.
-- Evaluating the performance of investment portfolios based on historical data.
+- Evaluating the performance of investment portfolios based on historical data..
 
 ## Methods and Tools
 
@@ -39,5 +39,5 @@ Our analysis employs a range of methods and tools, including:
 
 
 
-**** work on my readme
+**** work on my readme.
 
