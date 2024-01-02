@@ -37,7 +37,3 @@ Our analysis employs a range of methods and tools, including:
 - Python programming language and Jupyter notebooks.
 - machine learning algorithms (e.g KNN, DTA).
 
-
-
-**
-
