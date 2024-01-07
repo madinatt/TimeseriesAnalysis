@@ -11,11 +11,11 @@ Welcome to the Stock Exchange Time Series Analysis project repository. This proj
 
 ## Introduction
 
-In this project, I delve into the analysis of historical stock market data to uncover patterns, trends, and insights. We aim to gain a better understanding of stock price movements, identify potential investment opportunities, and evaluate the performance of various stocks.
+In this project, I delve into the analysis of historical stock market data to uncover patterns, trends, and insights. I aim to gain a better understanding of stock price movements, identify potential investment opportunities, and evaluate the performance of various stocks.
 
 ## Dataset
 
-Our analysis is based on a comprehensive dataset of historical stock prices. This dataset includes information about various stocks, their daily prices, trading volumes, and other relevant attributes. We provide details about the data source, its format, and any preprocessing steps applied in the repository.
+my analysis is based on a comprehensive dataset of historical stock prices. This dataset includes information about various stocks, their daily prices, trading volumes, and other relevant attributes. We provide details about the data source, its format, and any preprocessing steps applied in the repository.
 
 ## Analysis Objectives
 
