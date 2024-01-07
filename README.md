@@ -28,7 +28,7 @@ My primary objectives in this time series analysis include:
 
 ## Methods and Tools
 
-Our analysis employs a range of methods and tools, including:
+My analysis employs a range of methods and tools, including:
 
 - Time series decomposition and visualization.
 - Time series forecasting models (e.g., ARIMA, LSTM).
