@@ -15,11 +15,11 @@ In this project, I delve into the analysis of historical stock market data to un
 
 ## Dataset
 
-my analysis is based on a comprehensive dataset of historical stock prices. This dataset includes information about various stocks, their daily prices, trading volumes, and other relevant attributes. We provide details about the data source, its format, and any preprocessing steps applied in the repository.
+My analysis is based on a comprehensive dataset of historical stock prices. This dataset includes information about various stocks, their daily prices, trading volumes, and other relevant attributes. We provide details about the data source, its format, and any preprocessing steps applied in the repository.
 
 ## Analysis Objectives
 
-Our primary objectives in this time series analysis include:
+My primary objectives in this time series analysis include:
 
 - Identifying trends and seasonality in stock prices.
 - Predicting future stock prices using time series forecasting techniques.
